@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Adarsh+and+Welcome+to+my+Profile!" alt="Hey, This is Shubham and welcome to my profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Shubham+and+Welcome+to+my+Profile!" alt="Hey, This is Shubham and welcome to my profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/Account1Adarsh/count.svg" />
+  <img src="https://profile-counter.glitch.me/Account1-Shubham/count.svg" />
 </div>
 
 
